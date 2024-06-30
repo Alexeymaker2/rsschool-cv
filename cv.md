@@ -1,2 +1,6 @@
-# **ALEXEY KASYANOV**
-## my email: [leshakasyanov](leshakasyanov@yandex.ru) 
+# **ALEXEY KASYANOV resume**
+## Привет меня зовут Лёша и это моё первое задание cv 
+### my email: [leshakasyanov](leshakasyanov@yandex.ru) 
+####  _О себе_: 
+ - Живу в Беларуси, город Витебск. Учусь на заочном отделении в БГУИР, спепциальность маркетолог-праграммист. Работаю в компании ОАО Лидское пиво, должность: рекламный-агент. 
+
