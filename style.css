@@ -4,13 +4,6 @@
   html {
     scroll-behavior: smooth;
   }
-  .rss {
-    width: 121px;
-    height: 45px;
-    background-image: url("./Elegant_Background-19.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
 .body {
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
@@ -87,6 +80,16 @@
     padding: 0;
     padding-left: 30px;
 }
+.section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
 .li {
     display: list-item;
     text-align: -webkit-match-parent;
@@ -106,4 +109,15 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     unicode-bidi: isolate;
+}
+.footer {
+    background-color: #829985;
+    padding: 20px;
+}
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url(./images.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
